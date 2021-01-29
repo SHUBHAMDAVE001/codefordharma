@@ -6,6 +6,7 @@
 * [Teams](teams.md)
 * [Projects](projects.md)
 * [Contact Us](contact-us.md)
+* [FAQ](faq.md)
 
 ## Temples
 
@@ -60,7 +61,7 @@
 
 ## Services
 
-* [Introduction](services/introduction.md)
+* [Services](services/introduction.md)
 
 ## Join Us
 
@@ -79,4 +80,8 @@
 * [Project Manager](join-us/project-manager.md)
 * [Data Scientists](join-us/data-scientists.md)
 * [AI/ML & Deep learning](join-us/ai-ml-and-deep-learning.md)
+
+## Wiki
+
+* [Introduction](wiki/introduction.md)
 
