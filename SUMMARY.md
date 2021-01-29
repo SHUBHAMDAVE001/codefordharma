@@ -102,3 +102,11 @@
 
 * [Kalakari](kalakari/kalakari.md)
 
+## Prakrati
+
+* [Prakrati](prakrati/prakrati.md)
+
+## Bhojnalay
+
+* [Bhojnalay](bhojnalay/bhojnalay.md)
+

@@ -21,7 +21,7 @@ Initiatives which we are focusing on:
 5. We aim to connect with all the people who are connected with their local temples thereby creating a support system for our initiative\(s\).
 6. We want to connect every Sanatani across the world, through our platform.
 
-INITIAL DEVELOPMENT: we already have built a beta version of the temple web app \([https://temples.dev](https://temples.dev)\). This website is right now optimised for mobile view only. We welcome any constructive feedback in this regard.
+**INITIAL DEVELOPMENT**: we already have built a beta version of the temple web app \([https://temples.dev](https://temples.dev)\). This website is right now optimised for mobile view only. We welcome any constructive feedback in this regard.
 
 ## 4. Movements
 
@@ -115,11 +115,15 @@ INITIAL DEVELOPMENT: we already have built a beta version of the temple web app 
 
 * This initiative will provide low cost or free foods to the needy ones.
 
+[Learn More](../bhojnalay/bhojnalay.md)
+
 ### 6.4 Mother Nature Protection
 
 * Due to increasing competitiveness in the growth oriented world, mother nature is getting exploited in a manner getting worse day by day. Now the western countries are slowly realizing what values Sanatan Dharma has as a community and why we praise mother nature. 
 * To protect mother nature is also our motive and this objective involves educating children about "Prakriti Sanrakshan", we aim to plant more and more trees. Rejuvenating rivers will also be taken care of. 
 * We are also planning to focus on organic farming to protect the exploitation of soil as a resource and to avoid the consumption of harmful chemicals. 
+
+[Learn More](../prakrati/prakrati.md)
 
 ## 7. Finance
 
