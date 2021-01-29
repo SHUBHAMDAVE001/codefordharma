@@ -5,6 +5,7 @@
 * [Code for Dharma Initiative](code-for-dharma-initiative.md)
 * [Teams](teams.md)
 * [Projects](projects.md)
+* [Services](introduction.md)
 * [Contact Us](contact-us.md)
 * [FAQ](faq.md)
 
@@ -74,8 +75,6 @@
 * [Wiki](wiki/introduction.md)
 
 ## Services
-
-* [Services](services/introduction.md)
 
 ## Join Us
 
