@@ -33,10 +33,6 @@
 
 * [Introduction](organisations/untitled.md)
 
-## Media
-
-* [Introduction](media/untitled.md)
-
 ## Library
 
 * [Introduction](library/untitled.md)
