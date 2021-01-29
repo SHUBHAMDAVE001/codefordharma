@@ -1,4 +1,4 @@
-# Ecosystem
+# Temples Ecosystem
 
 Code for Dharma Temples Ecosystem Document
 

@@ -10,54 +10,63 @@
 
 ## Temples
 
-* [Ecosystem](temples/untitled.md)
+* [Temples Ecosystem](temples/untitled.md)
 * [Temples App](temples/temples-app.md)
 * [Contributors Guidelines](temples/contributors-guidelines.md)
 
+## Sanskrit
+
+* [Sanskrit](sanskrit/sanskrit.md)
+
 ## History
 
-* [Introduction](history/untitled.md)
+* [History / Itihasa](history/untitled.md)
 * [Contributors Guidelines](history/contributors-guidelines.md)
 * [History App](history/untitled-1.md)
 
+## Library
+
+* [Library](library/untitled.md)
+* [Contributors Guidelines](library/contributors-guidelines.md)
+
 ## Gaushala
 
-* [Introduction](gaushala/untitled.md)
+* [Gaushala](gaushala/untitled.md)
 * [Contributors Guidelines](gaushala/contributors-guidelines.md)
 
 ## Gurukuls
 
-* [Introduction](gurukuls/untitled.md)
+* [Gurukuls](gurukuls/untitled.md)
 * [Contributors Guidelines](gurukuls/contributors-guidelines.md)
 
 ## Organisations
 
 * [Introduction](organisations/untitled.md)
 
-## Library
-
-* [Introduction](library/untitled.md)
-* [Contributors Guidelines](library/contributors-guidelines.md)
-
 ## Kinnars
 
-* [Introduction](kinnars/untitled.md)
+* [Kinnars](kinnars/untitled.md)
 
 ## Economy
 
-* [Introduction](economy/untitled.md)
+* [Economy](economy/untitled.md)
+* [Job Portal](economy/job-portal.md)
 
 ## Prajatantra
 
-* [Introduction](prajatantra/untitled.md)
+* [Prajatantra](prajatantra/untitled.md)
 
 ## Ayurveda
 
-* [Introduction](ayurveda/untitled.md)
+* [Ayurveda](ayurveda/untitled.md)
 
 ## Yoga
 
-* [Introduction](yoga/untitled.md)
+* [Yoga](yoga/untitled.md)
+
+## Wiki
+
+* [Introduction](wiki/introduction.md)
 
 ## Services
 
@@ -81,7 +90,11 @@
 * [Data Scientists](join-us/data-scientists.md)
 * [AI/ML & Deep learning](join-us/ai-ml-and-deep-learning.md)
 
-## Wiki
+## Urja
 
-* [Introduction](wiki/introduction.md)
+* [Urja](urja/urja.md)
+
+## Kalakari
+
+* [Kalakari](kalakari/kalakari.md)
 

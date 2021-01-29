@@ -2,27 +2,75 @@
 
 ## 1. Temples
 
+
+
+[Learn More](temples/untitled.md)
+
 ## 2. Sanskrit
+
+
+
+[Learn More](sanskrit/sanskrit.md)
 
 ## 3. History
 
+
+
+[Learn More](history/untitled.md)
+
 ## 4. Library
+
+
+
+[Learn More](library/untitled.md)
 
 ## 5. Gurukuls
 
+
+
+[Learn More](gurukuls/untitled.md)
+
 ## 6. Gaushala
+
+
+
+[Learn More](gaushala/untitled.md)
 
 ## 7. Economy
 
+
+
+[Learn More](economy/untitled.md)
+
 ## 8. Job Portals
+
+
+
+[Learn More](economy/job-portal.md)
 
 ## 9. Narittva
 
+
+
+[Learn More](kinnars/untitled.md)
+
 ## 10. Prajatantra
+
+
+
+[Learn More](prajatantra/untitled.md)
 
 ## 11. Urja
 
+
+
+[Learn More](urja/urja.md)
+
 ## 12. Kalakari
+
+
+
+[Learn More](kalakari/kalakari.md)
 
 ## 13. Others
 
