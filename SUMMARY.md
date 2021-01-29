@@ -46,7 +46,7 @@
 
 ## Organisations
 
-* [Introduction](organisations/untitled.md)
+* [Organisations](organisations/untitled.md)
 
 ## Kinnars
 
