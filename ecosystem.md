@@ -59,7 +59,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 * We need to have courses on both ancient and latest education in our platform and focus students to find and realise the truth.
   * Education on Yoga, Vedas Education on whole modern Science
 
-Learn More
+[Learn More](gurukuls/untitled.md)
 
 ## Temples
 
@@ -72,7 +72,7 @@ Learn More
 * Upgrade them for Vaidya Shala/Hospital. 
 * Martial Arts/Self Defence classes should be compulsory for people connecting here as our temples are getting attacked and looted from 100s of years.
 
-Learn More
+[Learn More](temples/untitled.md)
 
 ## Library
 
@@ -83,7 +83,7 @@ Learn More
 * All of our ancient knowledge should be in one place and easy to access. 
 * We are building this digital library in the memory of Nalanda Library which was burned by Islamic Invader.
 
-Learn More
+[Learn More](library/untitled.md)
 
 ## History
 
@@ -93,7 +93,7 @@ Learn More
 * We need to present original content as much as possible. 
 * We need to document all the genocide happened to us in whole history by invaders.
 
-Learn More
+[Learn More](history/untitled.md)
 
 ## Nari Shakti
 
@@ -102,11 +102,15 @@ Learn More
 * We need to shine light on all the powerful Devis / Goddess who have played a strong role in society.
 * We need to change the hypocritic narratives of all pseudo-feminists, who are showing our women as oppressed, weak and suppressed.
 
+Learn More
+
 ## Kinnar / LGBT Community
 
 * Sanatan Dharma recognised 61 different genders other then Nar & Nari. 
 * We have separate traditions for Kinnars which are going on from ancient ages. 
 * We need to build strong ecosystem for kinnars too.
+
+[Learn More](kinnars/untitled.md)
 
 ## Legal Team
 
@@ -118,6 +122,8 @@ Learn More
 * We need to build our business ecosystem. 
 * We need to build our Swadeshi brands on all the products in all the fields. 
 * We need to build ecosystem where we can provide jobs to our people.
+
+[Learn More](economy/untitled.md)
 
 ## Finance
 
@@ -152,6 +158,8 @@ Learn More
 * List all the patents done on our ayurveda 
 * List all the research done on ayurveda also
 
+[Learn More](ayurveda/untitled.md)
+
 ## Sanskrit
 
 * Our goal is to protect and promote all the sanskrit 
@@ -160,7 +168,7 @@ Learn More
 * Develop AI for Sanskrit 
 * Develop Computer Programming Language from sanskrit. 
 
-Learn More
+[Learn More](sanskrit/sanskrit.md)
 
 ## Gaushala
 
@@ -170,7 +178,7 @@ Learn More
 * Listing all the genocide done on our cows 
 * Making ecosystem to protect and promote our indigenous cow breed
 
-Learn More
+[Learn More](gaushala/untitled.md)
 
 ## Yoga
 
