@@ -12,8 +12,9 @@
 
 ## History
 
-* [Untitled](history/untitled.md)
-* [Untitled](history/untitled-1.md)
+* [Introduction](history/untitled.md)
+* [Contributors Guidelines](history/contributors-guidelines.md)
+* [History App](history/untitled-1.md)
 
 ## Gaushala
 
