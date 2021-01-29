@@ -5,6 +5,7 @@
 * [Code for Dharma Initiative](code-for-dharma-initiative.md)
 * [Teams](teams.md)
 * [Projects](projects.md)
+* [Contact Us](contact-us.md)
 
 ## Temples
 
@@ -21,10 +22,12 @@
 ## Gaushala
 
 * [Introduction](gaushala/untitled.md)
+* [Contributors Guidelines](gaushala/contributors-guidelines.md)
 
 ## Gurukuls
 
 * [Introduction](gurukuls/untitled.md)
+* [Contributors Guidelines](gurukuls/contributors-guidelines.md)
 
 ## Organisations
 
@@ -37,34 +40,19 @@
 ## Library
 
 * [Introduction](library/untitled.md)
-
-## Nari Shakti
-
-* [Introduction](nari-shakti/untitled.md)
+* [Contributors Guidelines](library/contributors-guidelines.md)
 
 ## Kinnars
 
 * [Introduction](kinnars/untitled.md)
 
-## Legal Team
-
-* [Introduction](legal-team/untitled.md)
-
 ## Economy
 
 * [Introduction](economy/untitled.md)
 
-## Finance
-
-* [Introduction](finance/untitled.md)
-
 ## Prajatantra
 
 * [Introduction](prajatantra/untitled.md)
-
-## Entertainment Industry
-
-* [Introduction](entertainment-industry/untitled.md)
 
 ## Ayurveda
 
@@ -73,6 +61,10 @@
 ## Yoga
 
 * [Introduction](yoga/untitled.md)
+
+## Services
+
+* [Introduction](services/introduction.md)
 
 ## Join Us
 
@@ -91,8 +83,4 @@
 * [Project Manager](join-us/project-manager.md)
 * [Data Scientists](join-us/data-scientists.md)
 * [AI/ML & Deep learning](join-us/ai-ml-and-deep-learning.md)
-
-## Services
-
-* [Introduction](services/introduction.md)
 
