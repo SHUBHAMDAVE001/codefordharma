@@ -1,4 +1,4 @@
-# CMS \(Content Management System\) Developer
+# CMS \(Content Management System\) Developers
 
 5.1 Wordpress Developer
 

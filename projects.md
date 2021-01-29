@@ -7,7 +7,7 @@
 3. We already have collected basic details of over 55,000 temples and are working to take it further to the last Temple at a remote location.
 4. This platform will also be used to limit/end the unjust interference of govt bodies in Temple management boards.
 
-[Learn More](temples/untitled.md)
+[Learn More](temples/temples-ecosystem.md)
 
 ## 2. Sanskrit
 
@@ -25,7 +25,7 @@
 3. This platform shall be particularly useful for Sanatanis settled outside India to recognize their racial roots and to be truly aware about their history.
 4. To present history in an interesting and interactive manner, we also aim to create documentaries, OTT TV Series of major Sanatani history events.
 
-[Learn More](history/untitled.md)
+[Learn More](history/history-itihasa.md)
 
 ## 4. Library
 
@@ -34,7 +34,7 @@
 * The aforementioned information shall be translated in various other Indian Languages and popular foreign languages by the respective scholars of the language in which the text is originally written and shall be available in the text and audio format.
 * Our vision through this platform is to popularise, improve and enhance the reach of the ancient Indian Knowledge all over the Globe.
 
-[Learn More](library/untitled.md)
+[Learn More](library/library.md)
 
 ## 5. Gurukuls
 
@@ -43,7 +43,7 @@
 * Through this platform our vision is to popularise ancient Indian knowledge which is relevant even in the modern era eg. Ancient Vedic Mathematics had the calculation techniques which are much efficient and faster than the comparative arabic numerical methods.
 * This platform will connect all the physical gurukuls as well.
 
-[Learn More](gurukuls/untitled.md)
+[Learn More](gurukuls/gurukuls.md)
 
 ## 6. Gaushala
 
@@ -53,7 +53,7 @@
 * This platform will also consist of all the information regarding the history, culture & stories related to our desi cows as Cow is considered to be one of the most sacred elements of Sanatan Dharma. 
 * We also aim to stop illegal Cow trafficking and to stop Cow Slaughter through this platform.
 
-[Learn More](gaushala/untitled.md)
+[Learn More](gaushala/gaushala.md)
 
 ## 7. Economy
 
@@ -63,7 +63,7 @@
 * Job Portals
 * Funding & Financial Support
 
-[Learn More](economy/untitled.md)
+[Learn More](economy/economy.md)
 
 ## 8. Job Portals
 
@@ -76,13 +76,13 @@
 * With this platform, we aim to support our Sanatan Females in fighting against any injustice to them and to protect them from the fake feminist propagandas.
 * Also, we aim to help in making our Nari-Shakti independent by creating/supporting an e-commerce platform to promote the products by Indian Females through cottage industries or as a female entrepreneur.
 
-[Learn More](kinnars/untitled.md)
+[Learn More](kinnars/kinnars.md)
 
 ## 10. Prajatantra
 
 
 
-[Learn More](prajatantra/untitled.md)
+[Learn More](prajatantra/prajatantra.md)
 
 ## 11. Urja
 

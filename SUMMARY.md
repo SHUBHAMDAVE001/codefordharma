@@ -1,16 +1,16 @@
 # Table of contents
 
 * [Home](README.md)
-* [Dharmic Ecosystem](ecosystem.md)
+* [Dharmic Ecosystem](dharmic-ecosystem.md)
 * [Teams](teams.md)
 * [Projects](projects.md)
-* [Services](introduction.md)
+* [Services](services-1.md)
 * [Contact Us](contact-us.md)
 * [FAQ](faq.md)
 
 ## Temples
 
-* [Temples Ecosystem](temples/untitled.md)
+* [Temples Ecosystem](temples/temples-ecosystem.md)
 * [Temples App](temples/temples-app.md)
 * [Contributors Guidelines](temples/contributors-guidelines.md)
 
@@ -22,56 +22,56 @@
 
 ## History
 
-* [History / Itihasa](history/untitled.md)
-* [History App](history/untitled-1.md)
+* [History / Itihasa](history/history-itihasa.md)
+* [History App](history/history-app.md)
 * [Contributors Guidelines](history/contributors-guidelines.md)
 
 ## Library
 
-* [Library](library/untitled.md)
+* [Library](library/library.md)
 * [Library App](library/library-app.md)
 * [Contributors Guidelines](library/contributors-guidelines.md)
 
 ## Gaushala
 
-* [Gaushala](gaushala/untitled.md)
+* [Gaushala](gaushala/gaushala.md)
 * [Gaushala App](gaushala/gaushala-app.md)
 * [Contributors Guidelines](gaushala/contributors-guidelines.md)
 
 ## Gurukuls
 
-* [Gurukuls](gurukuls/untitled.md)
+* [Gurukuls](gurukuls/gurukuls.md)
 * [Gurukuls App](gurukuls/gurukuls-app.md)
 * [Contributors Guidelines](gurukuls/contributors-guidelines.md)
 
 ## Organisations
 
-* [Organisations](organisations/untitled.md)
+* [Organisations](organisations/organisations.md)
 
 ## Kinnars
 
-* [Kinnars](kinnars/untitled.md)
+* [Kinnars](kinnars/kinnars.md)
 
 ## Economy
 
-* [Economy](economy/untitled.md)
+* [Economy](economy/economy.md)
 * [Job Portal](economy/job-portal.md)
 
 ## Prajatantra
 
-* [Prajatantra](prajatantra/untitled.md)
+* [Prajatantra](prajatantra/prajatantra.md)
 
 ## Ayurveda
 
-* [Ayurveda](ayurveda/untitled.md)
+* [Ayurveda](ayurveda/ayurveda.md)
 
 ## Yoga
 
-* [Yoga](yoga/untitled.md)
+* [Yoga](yoga/yoga.md)
 
 ## Wiki
 
-* [Wiki](wiki/introduction.md)
+* [Wiki](wiki/wiki.md)
 
 ## Services
 
@@ -80,7 +80,7 @@
 * [Join Us](join-us/join-us.md)
 * [Content Writers](join-us/content-writers.md)
 * [UI/UX designers](join-us/ui-ux-designers.md)
-* [CMS \(Content Management System\) Developer](join-us/cms-content-management-system-developer.md)
+* [CMS \(Content Management System\) Developers](join-us/cms-developers.md)
 * [Front End developer](join-us/front-end-developer.md)
 * [Android Developer](join-us/android-developer.md)
 * [iOS Developer](join-us/ios-developer.md)

@@ -101,7 +101,7 @@ Initiatives which we are focusing on:
 * Things which will be focused on apart from practical and subject knowledge will include Personality development, Self Defence, Multilingual knowledge and shishyas shall also be taught to focus on other life skills.
 * Apart from ancient education, we are going to provide all the Modern Education as well and make the shishyas employable as per the best market practices.
 
-[Learn More](../gurukuls/untitled.md)
+[Learn More](../gurukuls/gurukuls.md)
 
 ### 6.2 Gaushala
 
@@ -109,7 +109,7 @@ Initiatives which we are focusing on:
 * We are focusing on building more and more gaushalas and to train people to take care of our Gau Mata and to ensure their good health and safety.
 * We also aim to make the Gaushala ecosystem self-sustaining as every product or by product of cows is useful for society.
 
-[Learn More](../gaushala/untitled.md)
+[Learn More](../gaushala/gaushala.md)
 
 ### 6.3 Kitchen
 
