@@ -17,26 +17,31 @@
 ## Sanskrit
 
 * [Sanskrit](sanskrit/sanskrit.md)
+* [Sanskrit App](sanskrit/sanskrit-app.md)
+* [Contributors Guidelines](sanskrit/contributors-guidelines.md)
 
 ## History
 
 * [History / Itihasa](history/untitled.md)
-* [Contributors Guidelines](history/contributors-guidelines.md)
 * [History App](history/untitled-1.md)
+* [Contributors Guidelines](history/contributors-guidelines.md)
 
 ## Library
 
 * [Library](library/untitled.md)
+* [Library App](library/library-app.md)
 * [Contributors Guidelines](library/contributors-guidelines.md)
 
 ## Gaushala
 
 * [Gaushala](gaushala/untitled.md)
+* [Gaushala App](gaushala/gaushala-app.md)
 * [Contributors Guidelines](gaushala/contributors-guidelines.md)
 
 ## Gurukuls
 
 * [Gurukuls](gurukuls/untitled.md)
+* [Gurukuls App](gurukuls/gurukuls-app.md)
 * [Contributors Guidelines](gurukuls/contributors-guidelines.md)
 
 ## Organisations
@@ -66,7 +71,7 @@
 
 ## Wiki
 
-* [Introduction](wiki/introduction.md)
+* [Wiki](wiki/introduction.md)
 
 ## Services
 
