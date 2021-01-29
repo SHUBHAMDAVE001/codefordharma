@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Home](README.md)
+* [Dharmic Ecosystem](ecosystem.md)
 * [Code for Dharma Initiative](code-for-dharma-initiative.md)
 * [Teams](teams.md)
-* [Ecosystem](ecosystem.md)
 
 ## Projects
 
@@ -21,6 +21,7 @@
 ## History
 
 * [Untitled](history/untitled.md)
+* [Untitled](history/untitled-1.md)
 
 ## Gaushala
 
