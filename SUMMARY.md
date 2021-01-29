@@ -2,7 +2,6 @@
 
 * [Home](README.md)
 * [Dharmic Ecosystem](ecosystem.md)
-* [Code for Dharma Initiative](code-for-dharma-initiative.md)
 * [Teams](teams.md)
 * [Projects](projects.md)
 * [Services](introduction.md)
