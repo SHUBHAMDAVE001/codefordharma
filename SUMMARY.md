@@ -16,7 +16,7 @@
 
 ## Temples
 
-* [Introduction](temples/untitled.md)
+* [Ecosystem](temples/untitled.md)
 
 ## History
 
