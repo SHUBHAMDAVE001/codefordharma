@@ -5,18 +5,10 @@
 * [Code for Dharma Initiative](code-for-dharma-initiative.md)
 * [Teams](teams.md)
 
-## Projects
-
-* [Temples](projects/temples.md)
-* [Sanskrit](projects/sanskrit.md)
-* [Library](projects/library.md)
-* [History](projects/history.md)
-* [Gurukuls](projects/gurukuls.md)
-* [Untitled](history/untitled.md)
-
 ## Temples
 
 * [Ecosystem](temples/untitled.md)
+* [Temples App](temples/temples-app.md)
 
 ## History
 
@@ -30,4 +22,52 @@
 ## Gurukuls
 
 * [Untitled](gurukuls/untitled.md)
+
+## Organisations
+
+* [Untitled](organisations/untitled.md)
+
+## Media
+
+* [Untitled](media/untitled.md)
+
+## Library
+
+* [Untitled](library/untitled.md)
+
+## Nari Shakti
+
+* [Untitled](nari-shakti/untitled.md)
+
+## Kinnars
+
+* [Untitled](kinnars/untitled.md)
+
+## Legal Team
+
+* [Untitled](legal-team/untitled.md)
+
+## Economy
+
+* [Untitled](economy/untitled.md)
+
+## Finance
+
+* [Untitled](finance/untitled.md)
+
+## Prajatantra
+
+* [Untitled](prajatantra/untitled.md)
+
+## Entertainment Industry
+
+* [Untitled](entertainment-industry/untitled.md)
+
+## Ayurveda
+
+* [Untitled](ayurveda/untitled.md)
+
+## Yoga
+
+* [Untitled](yoga/untitled.md)
 
