@@ -4,11 +4,13 @@
 * [Dharmic Ecosystem](ecosystem.md)
 * [Code for Dharma Initiative](code-for-dharma-initiative.md)
 * [Teams](teams.md)
+* [Projects](projects.md)
 
 ## Temples
 
 * [Ecosystem](temples/untitled.md)
 * [Temples App](temples/temples-app.md)
+* [Contributors Guidelines](temples/contributors-guidelines.md)
 
 ## History
 
@@ -18,57 +20,79 @@
 
 ## Gaushala
 
-* [Untitled](gaushala/untitled.md)
+* [Introduction](gaushala/untitled.md)
 
 ## Gurukuls
 
-* [Untitled](gurukuls/untitled.md)
+* [Introduction](gurukuls/untitled.md)
 
 ## Organisations
 
-* [Untitled](organisations/untitled.md)
+* [Introduction](organisations/untitled.md)
 
 ## Media
 
-* [Untitled](media/untitled.md)
+* [Introduction](media/untitled.md)
 
 ## Library
 
-* [Untitled](library/untitled.md)
+* [Introduction](library/untitled.md)
 
 ## Nari Shakti
 
-* [Untitled](nari-shakti/untitled.md)
+* [Introduction](nari-shakti/untitled.md)
 
 ## Kinnars
 
-* [Untitled](kinnars/untitled.md)
+* [Introduction](kinnars/untitled.md)
 
 ## Legal Team
 
-* [Untitled](legal-team/untitled.md)
+* [Introduction](legal-team/untitled.md)
 
 ## Economy
 
-* [Untitled](economy/untitled.md)
+* [Introduction](economy/untitled.md)
 
 ## Finance
 
-* [Untitled](finance/untitled.md)
+* [Introduction](finance/untitled.md)
 
 ## Prajatantra
 
-* [Untitled](prajatantra/untitled.md)
+* [Introduction](prajatantra/untitled.md)
 
 ## Entertainment Industry
 
-* [Untitled](entertainment-industry/untitled.md)
+* [Introduction](entertainment-industry/untitled.md)
 
 ## Ayurveda
 
-* [Untitled](ayurveda/untitled.md)
+* [Introduction](ayurveda/untitled.md)
 
 ## Yoga
 
-* [Untitled](yoga/untitled.md)
+* [Introduction](yoga/untitled.md)
+
+## Join Us
+
+* [Join Us](join-us/join-us.md)
+* [Content Writers](join-us/content-writers.md)
+* [UI/UX designers](join-us/ui-ux-designers.md)
+* [CMS \(Content Management System\) Developer](join-us/cms-content-management-system-developer.md)
+* [Front End developer](join-us/front-end-developer.md)
+* [Android Developer](join-us/android-developer.md)
+* [iOS Developer](join-us/ios-developer.md)
+* [Cyber Security](join-us/cyber-security.md)
+* [DevOps Engineer](join-us/devops-engineer.md)
+* [Cloud Architects](join-us/cloud-architects.md)
+* [Backend Developers](join-us/backend-developers.md)
+* [Blockchain Developer](join-us/blockchain-developer.md)
+* [Project Manager](join-us/project-manager.md)
+* [Data Scientists](join-us/data-scientists.md)
+* [AI/ML & Deep learning](join-us/ai-ml-and-deep-learning.md)
+
+## Services
+
+* [Introduction](services/introduction.md)
 

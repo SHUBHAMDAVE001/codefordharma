@@ -228,19 +228,5 @@ NOTE: currently we are collecting basic information and as the development of th
 11. Dynamic world map of all of our temples
 12. People can find temples near their locations
 
-NOTE: we will continue to add more and more features on demand of people.
 
-1. Appendix
-   * We are collecting all the temples information in Google Sheet \([http://bit.ly/sd-temples-db](http://bit.ly/sd-temples-db)\)
-   * Google Sheet contains Temple Name, country, state, district, street/locality, google map link, URL for each temple, Separate Google Doc for each temple.
-   * Each temple is having a separate Google Doc where we are writing all the articles/content related to that temple.
-   * Reference Doc: SD Temples PPT Content
-
-## ReclaimTemples Movement
-
-* Reclame of temple’s movement is a very beautiful and brave movement which brought back our Ram Mandir, this is the result of the mass social media movement.
-* We are working in a similar work pattern to create a mass movement and to claim back our ancestor’s place.  
-* We are fighting a legal battle to reclaim all the temples. This movement further aims to unite the Sanatani clan and to create mass awareness.
-
-\[a\]Introduction is missing here @raoavinash19@gmail.com sir _Assigned to Avinash Yadav_ \[b\]@raoavinash19@gmail.com please explain all the steps clearly as this is the document _Assigned to Avinash Yadav_
 
