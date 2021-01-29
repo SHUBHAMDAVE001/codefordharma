@@ -26,6 +26,8 @@
 
 ## 13. Others
 
+Listing following applications doen't mean Code for Dharma team is going to make it as not every project can sustain with non-profit model, we are listing these applications as we need these applications in our ecosystem.
+
 ### 13.1 Secure Communication App
 
 ### 13.2 Email Infrastructure
