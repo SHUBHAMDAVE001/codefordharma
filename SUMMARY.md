@@ -17,7 +17,7 @@
 
 ## Temples
 
-* [Untitled](temples/untitled.md)
+* [Introduction](temples/untitled.md)
 
 ## History
 
