@@ -6,7 +6,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 
 ## **Sanatan Dharma Ecosystem**
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Sanatan Dharma is Described as:**
 
 **Eternal Dharma of Finding and Realising the Truth.**
