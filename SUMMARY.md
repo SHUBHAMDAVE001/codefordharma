@@ -12,5 +12,5 @@
 * [Library](projects-1/library.md)
 * [History](projects-1/history.md)
 * [Gurukuls](projects-1/gurukuls.md)
-* [Untitled](projects-1/untitled.md)
+* [Gaushala](projects-1/untitled.md)
 
