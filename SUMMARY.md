@@ -120,4 +120,5 @@
 * [Why we are keeping strict rules in building our team.](why-we-are-keeping-strict-rules-in-building-our-team..md)
 * [CodeForDharma Idea Pool](codefordharma-idea-pool.md)
 * [CodeForDharma work culture and team structure](codefordharma-work-culture-and-team-structure.md)
+* [CodeForDharma Developers Guidelines](codefordharma-developers-guidelines.md)
 
