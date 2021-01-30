@@ -109,3 +109,14 @@
 
 * [Bhojnalay](bhojnalay/bhojnalay.md)
 
+## blogs
+
+* [Why Dharma needs strong presence in Digital world too!](blogs/why-dharma-needs-strong-presence-in-digital-world-too.md)
+
+---
+
+* [Why Code for Dharma is Important & Why you should join it.](why-code-for-dharma-is-important-and-why-you-should-join-it..md)
+* [How code for Dharma works and what are our core values.](how-code-for-dharma-works-and-what-are-our-core-values..md)
+* [Why we are keeping strict rules in building our team.](why-we-are-keeping-strict-rules-in-building-our-team..md)
+* [CodeForDharma Idea Pool](codefordharma-idea-pool.md)
+
