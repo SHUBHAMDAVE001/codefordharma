@@ -2,9 +2,7 @@
 
 ## **1. Introduction**
 
-**This document will be guidelines for all the projects code for dharma is going to work. Here we will document all working standards, tech stacks and coding guidelines.**  
-  
-
+**This document will be guidelines for all the projects code for dharma is going to work. Here we will document all working standards, tech stacks and coding guidelines.**
 
 ## **2. How to choose tech Stack**
 
