@@ -4,7 +4,7 @@
 * [Dharmic Ecosystem](dharmic-ecosystem.md)
 * [Teams](teams.md)
 * [Projects](projects.md)
-* [Services](services-1.md)
+* [Services](services-2.md)
 * [Contact Us](contact-us.md)
 * [FAQ](faq.md)
 
