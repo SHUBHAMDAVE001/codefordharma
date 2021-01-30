@@ -37,7 +37,7 @@ How are we going to achieve our goals?
 {% endtab %}
 {% endtabs %}
 
-## 3. Teams
+### 3. Teams
 
 To anything to work, we need motivated people to make things happen, for that only, we have listed down all the skills we need to achive our goals.
 
