@@ -13,3 +13,9 @@ Follow this [Google Sheet](https://bit.ly/cfd-library-db) for all the work we ha
 
 
 
+## Open Invitation
+
+This is an open invitation all the sanskrit experts/scholars to join/collaborate for our common goals.
+
+
+
