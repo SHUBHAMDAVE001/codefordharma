@@ -119,4 +119,5 @@
 * [How code for Dharma works and what are our core values.](how-code-for-dharma-works-and-what-are-our-core-values..md)
 * [Why we are keeping strict rules in building our team.](why-we-are-keeping-strict-rules-in-building-our-team..md)
 * [CodeForDharma Idea Pool](codefordharma-idea-pool.md)
+* [CodeForDharma work culture and team structure](codefordharma-work-culture-and-team-structure.md)
 
