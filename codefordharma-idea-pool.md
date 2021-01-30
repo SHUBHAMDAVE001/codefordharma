@@ -1,6 +1,8 @@
 # CodeForDharma Idea Pool
 
-[https://forms.gle/SoThrREBzrPYWFdx6](https://forms.gle/SoThrREBzrPYWFdx6)
+{% embed url="https://forms.gle/SoThrREBzrPYWFdx6" %}
+
+
 
 
 
