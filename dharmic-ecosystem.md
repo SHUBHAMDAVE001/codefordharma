@@ -12,13 +12,13 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 **Eternal Dharma of Finding and Realising the Truth.**
 {% endhint %}
 
-## Vision
+## 1. Vision
 
 * Our Vision is to Unite whole Sanatan Dharma. 
 * Make Bharat Vishwa Guru again.
 * Building a Civilisation State.
 
-## Mission
+## 2. Mission
 
 * Build whole support EcoSystem for Sanatani People by 2025, base should be ready by December 2020. 
 * Connect and Collaborate All Organisation of Sanatan Dharma.
@@ -28,13 +28,13 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 * Collect info about all the great people/saints of Sanatan Dharma. 
 * To fight & overcome all the forces which are trying to destroy Sanatan Dharma.
 
-## Organisations
+## 3. Organisations
 
 * List all the organisation currently working for sanatan Dharma 
 * Build better communication channel between these organisation so that we all can work together effectively. 
 * Stronger together we all stand, divided we all gonna fall.
 
-## Software Development Team
+## 4. Software Development Team
 
 * We need a strong software developers team. 
 * World Class UI/UX Designers Top Coders. 
@@ -44,13 +44,13 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 
 
 
-## Media
+## 5. Media
 
 * We need a platform where we can get ground reports, even from the remote village area. 
 * We also need a platform to communicate with each other, this should be our own, private and military grade encryption should be there. 
 * Building our narrative and also countering false narrative around the world.
 
-## Gurukuls / Education
+## 6. Gurukuls / Education
 
 * We need to own our education system. 
 * We need to re-write our books. 
@@ -61,7 +61,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 
 [Learn More](gurukuls/gurukuls.md)
 
-## Temples
+## 7. Temples
 
 * Temple Ecosystem is what we need to protect our temples from invasion. 
 * We need to connect all of our temples directly or indirectly. 
@@ -74,7 +74,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 
 [Learn More](temples/temples-ecosystem.md)
 
-## Library
+## 8. Library
 
 * We need one platform where all the books should be in digital form, and should be independent of the government body, means private or NGO. 
 * This application should have very good UI. 
@@ -85,7 +85,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 
 [Learn More](library/library.md)
 
-## History
+## 9. History
 
 * We need to re-write whole history from our prospective. 
 * We need to collect whole history data, and should be kept in one place. 
@@ -95,7 +95,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 
 [Learn More](history/history-itihasa.md)
 
-## Nari Shakti
+## 10. Nari Shakti
 
 * We need to redefine the meaning of true Narittva / Nari Shakti \(Female Power\). 
 * We need to mention all the brave Kshatranis\(female warriors\) who fought valiantly, and served their Matrubhoomi\(mother land\). 
@@ -104,7 +104,7 @@ description: Building whole Ecosystem to Protect & Preserve Dharma.
 
 Learn More
 
-## Kinnar / LGBT Community
+## 11. Kinnar / LGBT Community
 
 * Sanatan Dharma recognised 61 different genders other then Nar & Nari. 
 * We have separate traditions for Kinnars which are going on from ancient ages. 
@@ -112,12 +112,12 @@ Learn More
 
 [Learn More](kinnars/kinnars.md)
 
-## Legal Team
+## 12. Legal Team
 
 * Strong Team of all the Advocate & Judge who can stand and fight for truth. 
 * They should guide people for how we can fight and win while living inside the boundary of our constitution.
 
-## Economy
+## 13. Economy
 
 * We need to build our business ecosystem. 
 * We need to build our Swadeshi brands on all the products in all the fields. 
@@ -125,34 +125,34 @@ Learn More
 
 [Learn More](economy/economy.md)
 
-## Finance
+## 14. Finance
 
 * We need a platform where we can provide support to weaker section of Sanatan Dharmi. 
 * We should raise funds for them. 
 * We should take responsibility for their education and upbringing.
 
-## Political Team
+## 15. Political Team
 
 * We need our own political team. Only for Sanatan Dharmi People. 
 * This party will be working for only Sanatan Dharma and it’s goals. 
 * And also to counter all the political attacks done on Sanatan Dharma in the name of Politics and Free Speech.
 
-## Digital Content Creators
+## 16. Digital Content Creators
 
 * Artists, social media influencers Content Writers All these people can present truth with their arts and their videos and can set right narrative for people.
 
-## Entertainment Industry
+## 17. Entertainment Industry
 
 * We need our platform to create movies the way we want. 
 * We should not be dependent on others to make movies for us.
 
-## People or Saints
+## 18. People or Saints
 
 * List all the saints of our Sanatan Dharma. 
 * Document all of their teachings and knowledge. 
 * Get as much information as possible.
 
-## Ayurveda
+## 19. Ayurveda
 
 * List all the knowledge of ayurveda 
 * List all the patents done on our ayurveda 
@@ -160,7 +160,7 @@ Learn More
 
 [Learn More](ayurveda/ayurveda.md)
 
-## Sanskrit
+## 20. Sanskrit
 
 * Our goal is to protect and promote all the sanskrit 
 * Revival of sanskrit is our goal 
@@ -170,7 +170,7 @@ Learn More
 
 [Learn More](sanskrit/sanskrit.md)
 
-## Gaushala
+## 21. Gaushala
 
 * Listing all the scientific research & patents done on Cow 
   * List how can eco-friendly development can be done with Cow. 
@@ -180,13 +180,13 @@ Learn More
 
 [Learn More](gaushala/gaushala.md)
 
-## Yoga
+## 22. Yoga
 
 * List and document all types of Yoga 
 * It’s knowledge and its variation 
 * List all the Yogis who have worked and spread the work on Yoga.
 
-## Language Team
+## 23. Language Team
 
 As we all know Bharat is multi-lingual place, so we need people who are very good in all major language to connect with them and translate all of our content to reach the masses.
 
