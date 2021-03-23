@@ -5,6 +5,7 @@
 * [Teams](teams.md)
 * [Projects](projects.md)
 * [Services](services-2.md)
+* [Donate](donate.md)
 * [Contact Us](contact-us.md)
 * [FAQ](faq.md)
 
