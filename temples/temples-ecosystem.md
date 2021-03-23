@@ -21,7 +21,11 @@ Initiatives which we are focusing on:
 5. We aim to connect with all the people who are connected with their local temples thereby creating a support system for our initiative\(s\).
 6. We want to connect every Sanatani across the world, through our platform.
 
-**INITIAL DEVELOPMENT**: we already have built a beta version of the temple web app \([https://temples.dev](https://temples.dev)\). This website is right now optimised for mobile view only. We welcome any constructive feedback in this regard.
+**INITIAL DEVELOPMENT**: 
+
+* Android App: [http://bit.ly/mandiram-app](http://bit.ly/mandiram-app)
+* iOS App: Will be released after May 2021
+* Web App: After Dec 2021
 
 ## 4. Movements
 
@@ -147,6 +151,18 @@ We aim for the following:
 5. Make this platform go Global.
 
 ### 8.2 Projected Action Plan
+
+
+
+
+
+## 9. Interviews
+
+{% embed url="https://youtu.be/ehkfBCj79fw" %}
+
+Co-Founder Avinash Yadav Interview with VSI Foundation
+
+
 
 
 
