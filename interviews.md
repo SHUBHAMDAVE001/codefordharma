@@ -4,15 +4,15 @@ description: This page contains all the major interviews done by our Founding te
 
 # Interviews
 
-{% embed url="https://youtu.be/gK\_Yv5NUI4M" %}
-
-Founder Himank Barve interviewed by Desh Kapoor from Drishtikone Media
+{% embed url="https://youtu.be/gK\_Yv5NUI4M" caption="Founder Himank Barve interviewed by Desh Kapoor from Drishtikone Media" %}
 
 
 
-{% embed url="https://youtu.be/ehkfBCj79fw" %}
+{% embed url="https://youtu.be/ehkfBCj79fw" caption="Co-Founder Avinash Yadav Presentation on Mandiram Project with Vikramaditya Strategic Initiative" %}
 
-Co-Founder Avinash Yadav Presentation on Mandiram Project with Vikramaditya Strategic Initiative
+
+
+
 
 
 
