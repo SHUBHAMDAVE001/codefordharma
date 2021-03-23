@@ -10,6 +10,8 @@ Twitter: [@CodeForDharma](www.twitter.com/codefordharma)
 
 LinkedIn: [@codefordharma](https://www.linkedin.com/company/codefordharma)
 
+Telegram: [https://t.me/codefordharma](https://t.me/codefordharma)
+
 Email: codefordharma@gmail.com
 
 
