@@ -16,7 +16,7 @@ Code for Dharma team is not limited to only software professionals, anyone who w
 
 
 
-### We are inviting all those who are interested in contributing towards dharma in following fields:
+### We are inviting all those who are interested in contributing towards Dharma in following fields:
 
 
 
