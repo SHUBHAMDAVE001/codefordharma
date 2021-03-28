@@ -8,7 +8,7 @@
 * [Donate](donate.md)
 * [Interviews](interviews.md)
 * [Contact Us](contact-us.md)
-* [Join Us](join-us-2.md)
+* [Join Us](join-us.md)
 * [FAQ](faq.md)
 
 ## Temples
@@ -78,22 +78,22 @@
 
 ## Services
 
-## Join Us
+## Join Us <a id="join-us_"></a>
 
-* [Content Writers](join-us/content-writers.md)
-* [UI/UX designers](join-us/ui-ux-designers.md)
-* [CMS \(Content Management System\) Developers](join-us/cms-developers.md)
-* [Front End developer](join-us/front-end-developer.md)
-* [Android Developer](join-us/android-developer.md)
-* [iOS Developer](join-us/ios-developer.md)
-* [Cyber Security](join-us/cyber-security.md)
-* [DevOps Engineer](join-us/devops-engineer.md)
-* [Cloud Architects](join-us/cloud-architects.md)
-* [Backend Developers](join-us/backend-developers.md)
-* [Blockchain Developer](join-us/blockchain-developer.md)
-* [Project Manager](join-us/project-manager.md)
-* [Data Scientists](join-us/data-scientists.md)
-* [AI/ML & Deep learning](join-us/ai-ml-and-deep-learning.md)
+* [Content Writers](join-us_/content-writers.md)
+* [UI/UX designers](join-us_/ui-ux-designers.md)
+* [CMS \(Content Management System\) Developers](join-us_/cms-developers.md)
+* [Front End developer](join-us_/front-end-developer.md)
+* [Android Developer](join-us_/android-developer.md)
+* [iOS Developer](join-us_/ios-developer.md)
+* [Cyber Security](join-us_/cyber-security.md)
+* [DevOps Engineer](join-us_/devops-engineer.md)
+* [Cloud Architects](join-us_/cloud-architects.md)
+* [Backend Developers](join-us_/backend-developers.md)
+* [Blockchain Developer](join-us_/blockchain-developer.md)
+* [Project Manager](join-us_/project-manager.md)
+* [Data Scientists](join-us_/data-scientists.md)
+* [AI/ML & Deep learning](join-us_/ai-ml-and-deep-learning.md)
 
 ## Urja
 

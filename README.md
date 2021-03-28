@@ -61,5 +61,5 @@ As **code for dharma** is a team of software professionals, we will be providing
 
 We have listed down all the skills we will be needing to achieve our goals here.
 
-[Learn More](join-us-2.md)
+[Learn More](join-us.md)
 
