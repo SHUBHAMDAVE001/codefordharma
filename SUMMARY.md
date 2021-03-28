@@ -8,6 +8,7 @@
 * [Donate](donate.md)
 * [Interviews](interviews.md)
 * [Contact Us](contact-us.md)
+* [Join Us](join-us-1.md)
 * [FAQ](faq.md)
 
 ## Temples
@@ -79,7 +80,6 @@
 
 ## Join Us
 
-* [Join Us](join-us/join-us.md)
 * [Content Writers](join-us/content-writers.md)
 * [UI/UX designers](join-us/ui-ux-designers.md)
 * [CMS \(Content Management System\) Developers](join-us/cms-developers.md)
