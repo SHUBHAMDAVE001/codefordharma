@@ -8,7 +8,7 @@
 * [Donate](donate.md)
 * [Interviews](interviews.md)
 * [Contact Us](contact-us.md)
-* [Join Us](join-us-1.md)
+* [Join Us](join-us-2.md)
 * [FAQ](faq.md)
 
 ## Temples

@@ -44,5 +44,5 @@ Code for Dharma team is not limited to only software professionals, anyone who w
 
 12. Join Us
 
-[Click Here](join-us-1.md)
+[Click Here](join-us-2.md)
 
