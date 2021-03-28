@@ -14,7 +14,7 @@
 ## Temples
 
 * [Temples Ecosystem](temples/temples-ecosystem.md)
-* [Temples App](temples/temples-app.md)
+* [Mandiram App](temples/temples-app.md)
 * [Contributors Guidelines](temples/contributors-guidelines.md)
 
 ## Sanskrit
