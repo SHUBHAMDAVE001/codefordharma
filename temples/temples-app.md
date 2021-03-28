@@ -80,11 +80,23 @@ as we are also building ground level Team, we will be doing ground level verific
 
 We are also taking help from active content writers who are writing about temples, it's culture, history and everything.
 
+**NOTE**: if you are a content writer, please connect with us on Twitter or Telegram.
+
 ### 3.3 Photographers
+
+We will be connecting with professional photographers to take high quality pictures \(to maintain world class standard\) for our content platform.
+
+
+
+**NOTE**: we are not allowing whatsapp forwared photos in our platform and quality of photos are not good.
+
+**NOTE**: if you are a  professional Photographer, please connect with us on Twitter or Telegram.
 
 ### 3.4 Video Content Creators \(Documentaries\)
 
+We will be doing documentries of all the temples.
 
+**NOTE**: if you are a  Video content creator, please connect with us on Twitter or Telegram.
 
 
 
