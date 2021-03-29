@@ -3,6 +3,7 @@
 * [Home](README.md)
 * [Dharmic Ecosystem](dharmic-ecosystem.md)
 * [Teams](teams.md)
+* [Community](community.md)
 * [Projects](projects.md)
 * [Services](services-2.md)
 * [Donate](donate.md)
