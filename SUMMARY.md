@@ -17,6 +17,7 @@
 * [Temples Ecosystem](temples/temples-ecosystem.md)
 * [Mandiram App](temples/temples-app.md)
 * [Contributors Guidelines](temples/contributors-guidelines.md)
+* [Join Mandiram Networking Team](temples/join-mandiram-networking-team.md)
 
 ## Sanskrit
 
