@@ -1,8 +1,18 @@
 # Donate
 
-UPI Address for direct transfer:
+## 1. UPI
 
 ![](.gitbook/assets/img_1246.jpg)
+
+
+
+## 2. Patreon
+
+![https://www.patreon.com/codefordharma](https://i.dlpng.com/static/png/6815494_preview.png)
+
+
+
+
 
 
 
