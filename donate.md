@@ -8,17 +8,13 @@ for direct transfer
 
 ## 2. Patreon
 
-![https://www.patreon.com/codefordharma](https://i.dlpng.com/static/png/6815494_preview.png)
+{% embed url="https://www.patreon.com/codefordharma" %}
 
 
 
 
 
-
-
-
-
-
+##                        ---------------------------------------------
 
 **NOTE**: Registration of our NGO is in process so founder's account is connect with the payment link.
 
