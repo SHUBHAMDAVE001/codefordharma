@@ -96,29 +96,33 @@ With this initiative, we aim to Promote Sanatan Dharmic arts, thereby strengthen
 
 [Learn More](kalakari/kalakari.md)
 
-## 13. Others
+## 13. News Portal
+
+
+
+## 14. Others
 
 Listing following applications doen't mean Code for Dharma team is going to make it as not every project can sustain with non-profit model, we are listing these applications as we need these applications in our ecosystem. 
 
 We are listing because we need all these products in our ecosystem as we are too much dependent on others for these services.
 
-### 13.1 Secure Communication App
+### 14.1 Secure Communication App
 
-### 13.2 Email Infrastructure
+### 14.2 Email Infrastructure
 
-### 13.3 Browser
+### 14.3 Browser
 
-### 13.4 VPN
+### 14.4 VPN
 
-### 13.5 Password Manager
+### 14.5 Password Manager
 
-### 13.6 Social Network
+### 14.6 Social Network
 
-### 13.7 E-commerce Platform
+### 14.7 E-commerce Platform
 
-### 13.8 Cloud Infrastructure
+### 14.8 Cloud Infrastructure
 
-### 13.9 Operating Systems
+### 14.9 Operating Systems
 
 * IOT OS
 * Mobile OS
@@ -126,19 +130,19 @@ We are listing because we need all these products in our ecosystem as we are too
 * Supercomputer OS
 * Quantum Computer & it’s OS
 
-### 13.10 Office Suites
+### 14.10 Office Suites
 
-### 13.11 Programming Language
+### 14.11 Programming Language
 
-### 13.12 Search Engine
+### 14.12 Search Engine
 
-### 13.13 Entertainment Platform 
+### 14.13 Entertainment Platform 
 
 * Music streaming
 * Video streaming
 * Game streaming
 
-### 13.14 Digital Gaming
+### 14.14 Digital Gaming
 
 
 
