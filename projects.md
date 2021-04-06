@@ -1,10 +1,12 @@
 # Projects
 
-## 1. Temples
+## 1. Mandiram / Temples
+
+![](.gitbook/assets/mandiram-banner.png)
 
 1. We aim to develop a Temple Encyclopedia Application consisting of mapping of all Sanatan Dharma temples around the globe.
 2. The Temple Encyclopedia shall consist of the History, Culture, deities worshipped, associated tales, photos, videos, geotagging and contact information of every Sanatan Dharma Temple at a single place.
-3. We already have collected basic details of over 55,000 temples and are working to take it further to the last Temple at a remote location.
+3. We already have collected basic details of over 65,000 temples and are working to take it further to the last Temple at a remote location.
 4. This platform will also be used to limit/end the unjust interference of govt bodies in Temple management boards.
 
 [Learn More](temples/temples-ecosystem.md)
