@@ -102,29 +102,35 @@ With this initiative, we aim to Promote Sanatan Dharmic arts, thereby strengthen
 
 
 
-## 14. Others
+## 14.  Kshtriya 
+
+
+
+
+
+## 15. Others
 
 Listing following applications doen't mean Code for Dharma team is going to make it as not every project can sustain with non-profit model, we are listing these applications as we need these applications in our ecosystem. 
 
 We are listing because we need all these products in our ecosystem as we are too much dependent on others for these services.
 
-### 14.1 Secure Communication App
+### 15.1 Secure Communication App
 
-### 14.2 Email Infrastructure
+### 15.2 Email Infrastructure
 
-### 14.3 Browser
+### 15.3 Browser
 
-### 14.4 VPN
+### 15.4 VPN
 
-### 14.5 Password Manager
+### 15.5 Password Manager
 
-### 14.6 Social Network
+### 15.6 Social Network
 
-### 14.7 E-commerce Platform
+### 15.7 E-commerce Platform
 
-### 14.8 Cloud Infrastructure
+### 15.8 Cloud Infrastructure
 
-### 14.9 Operating Systems
+### 15.9 Operating Systems
 
 * IOT OS
 * Mobile OS
@@ -132,19 +138,19 @@ We are listing because we need all these products in our ecosystem as we are too
 * Supercomputer OS
 * Quantum Computer & it’s OS
 
-### 14.10 Office Suites
+### 15.10 Office Suites
 
-### 14.11 Programming Language
+### 15.11 Programming Language
 
-### 14.12 Search Engine
+### 15.12 Search Engine
 
-### 14.13 Entertainment Platform 
+### 15.13 Entertainment Platform 
 
 * Music streaming
 * Video streaming
 * Game streaming
 
-### 14.14 Digital Gaming
+### 15.14 Digital Gaming
 
 
 
