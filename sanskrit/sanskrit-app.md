@@ -1,2 +1,0 @@
-# Sanskrit App
-

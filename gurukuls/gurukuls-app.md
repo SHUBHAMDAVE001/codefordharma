@@ -1,2 +1,0 @@
-# Gurukuls App
-
