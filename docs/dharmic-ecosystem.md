@@ -95,7 +95,7 @@ sidebar_position: 2
 - We need to present original content as much as possible.
 - We need to document all the genocide happened to us in whole history by invaders.
 
-[Learn More](history/history-itihasa.md)
+[Learn More](history/history.md)
 
 ## 10. Nari Shakti
 

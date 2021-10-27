@@ -10,11 +10,11 @@ sidebar_position: 9
 
 Please connect with me if you are interested in working for Sanatan Dharma.
 
-Facebook: [@CodeForDharma](www.facebook.com/codefordharma)
+Facebook: [@CodeForDharma](https://www.facebook.com/codefordharma)
 
-Instagram: [@CodeForDharma](www.instagram.com/codefordharma)
+Instagram: [@CodeForDharma](https://www.instagram.com/codefordharma)
 
-Twitter: [@CodeForDharma](www.twitter.com/codefordharma)
+Twitter: [@CodeForDharma](https://www.twitter.com/codefordharma)
 
 LinkedIn: [@codefordharma](https://www.linkedin.com/company/codefordharma)
 

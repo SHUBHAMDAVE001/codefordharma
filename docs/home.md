@@ -60,7 +60,7 @@ To Achieve our goals, we have ourlined important projects which we will be worki
 
 As **code for dharma** is a team of software professionals, we will be providing consultancy services to all the Non-profit entities working towards betterment of Dharma in anyway so that their presence in digital world can also become strong.
 
-[Learn More](services-2.md)
+[Learn More](services.md)
 
 ### 6. Join Us
 

@@ -35,7 +35,7 @@ sidebar_position: 5
 3. This platform shall be particularly useful for Sanatanis settled outside India to recognize their racial roots and to be truly aware about their history.
 4. To present history in an interesting and interactive manner, we also aim to create documentaries, OTT TV Series of major Sanatani history events.
 
-[Learn More](history/history-itihasa.md)
+[Learn More](history/history.md)
 
 ## 4. Library
 
